@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>For Apology</title>
+</head>
+<body>
+	<h1>For Apology</h1>
+	<p>Sorry boo ajke ami onek misbehave korsi.
+ first ami tomake ragaisi ekta misunderstanding hoise oita clear kori nai then a
+rekta misunderstanding er jonno amar kharap lagse amar bujha uchit
+chilo tumi rag korso. Pore jokhon tumi abar bashay jaba bolsila 
+ami sathe sathe jai nai eitao amar bhul chilo er jonno o sorry.
+ amar sathe sathe jawa uchit chilo. Then bus e ami kotha na bujhe tomar abar rag uthaisi .
+<br> rag na thamiye abar ulta aro rag uthaiya disi oitar jonno sorry. 
+Ami er por theke kheyal rakhbo next time jate emon na hoy Sorry i'm really sorry.</p>
+</body>
+</html>

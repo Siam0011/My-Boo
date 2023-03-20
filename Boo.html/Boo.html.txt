@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello My Pretty Boo</title>
+</head>
+<body>
+	<h1>Hello My Pretty Boo</h1>
+	<a href="next_page.html">Next</a>
+</body>
+</html>
